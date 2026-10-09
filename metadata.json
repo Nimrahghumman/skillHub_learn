@@ -1,0 +1,8 @@
+{
+  "name": "SkillHub - Online Learning Platform",
+  "description": "A modern, professional online learning platform to build high-demand tech skills in Web Development, JavaScript, React, Next.js, Python, and Full Stack Engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
